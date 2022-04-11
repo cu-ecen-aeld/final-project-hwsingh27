@@ -1,0 +1,4 @@
+config BR2_PACKAGE_SOCKET
+	bool "socket"
+	help
+	  Includes the client and server files for socket communication.
